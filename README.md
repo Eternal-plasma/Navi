@@ -1,6 +1,6 @@
 # Navi
 
-![navi] (https://eternal-plasma.github.io/repo/rimg/navi.gif)
+<img src="https://eternal-plasma.github.io/repo/rimg/navi.gif">
 
 First attempt at a buddie
 
